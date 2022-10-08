@@ -1,3 +1,8 @@
-{
-    "tset":"testing"
-}
+[
+    {
+        "tset":"testing1"
+    },
+    {
+        "tset":"testing2"
+    }
+]
